@@ -26,7 +26,7 @@ I am a full stack software developer, love JS/TS, NodeJS and all things coding. 
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats (public only)</b>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=joseph-corcoran777)
 
