@@ -4,12 +4,11 @@ Hi 👋 My name is Joe Corcoran
 Full stack software engineer
 ----------------------------
 
-I am a full stack software developer, love React/NextJs, nodeJs and all things coding. Constantly learning, trying different languages and features to build amazing things.
+I am a full stack software developer, love JS/TS, NodeJS and all things coding. Constantly learning, trying different languages and features to build amazing things.
 
 * 🌍  I'm based in Wirral, Merseyside
 * 🖥️  See [MyPortfolio](http://josephcorcoran.co.uk/)
 * ✉️  You can contact me at [j.f.corcoran@hotmail.com](mailto:j.f.corcoran@hotmail.com)
-* 🚀  I'm currently working on [Groundsure.io](http://groundsure.io/)
 * 🧠  I'm learning Rust in my spare time
 * 🤝  I'm open to collaborating on Interesting projects
 
