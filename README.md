@@ -6,6 +6,7 @@ Full stack software engineer
 
 I am a full stack software developer, love JS/TS, NodeJS and all things coding. Constantly learning, trying different languages and features to build amazing things.
 
+* See also my gitLab account - [GitLab](https://gitlab.com/joseph-corcoran777)
 * 🌍  I'm based in Wirral, Merseyside
 * 🖥️  See [MyPortfolio](http://josephcorcoran.co.uk/)
 * ✉️  You can contact me at [j.f.corcoran@hotmail.com](mailto:j.f.corcoran@hotmail.com)
